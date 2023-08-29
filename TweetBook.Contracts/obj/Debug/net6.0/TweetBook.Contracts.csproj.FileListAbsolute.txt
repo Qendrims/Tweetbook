@@ -1,0 +1,12 @@
+C:\Users\blend\OneDrive\Desktop\TweetBook\TweetBook.Contracts\bin\Debug\net6.0\TweetBook.Contracts.deps.json
+C:\Users\blend\OneDrive\Desktop\TweetBook\TweetBook.Contracts\bin\Debug\net6.0\TweetBook.Contracts.dll
+C:\Users\blend\OneDrive\Desktop\TweetBook\TweetBook.Contracts\bin\Debug\net6.0\TweetBook.Contracts.pdb
+C:\Users\blend\OneDrive\Desktop\TweetBook\TweetBook.Contracts\obj\Debug\net6.0\TweetBook.Contracts.csproj.AssemblyReference.cache
+C:\Users\blend\OneDrive\Desktop\TweetBook\TweetBook.Contracts\obj\Debug\net6.0\TweetBook.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blend\OneDrive\Desktop\TweetBook\TweetBook.Contracts\obj\Debug\net6.0\TweetBook.Contracts.AssemblyInfoInputs.cache
+C:\Users\blend\OneDrive\Desktop\TweetBook\TweetBook.Contracts\obj\Debug\net6.0\TweetBook.Contracts.AssemblyInfo.cs
+C:\Users\blend\OneDrive\Desktop\TweetBook\TweetBook.Contracts\obj\Debug\net6.0\TweetBook.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\blend\OneDrive\Desktop\TweetBook\TweetBook.Contracts\obj\Debug\net6.0\TweetBook.Contracts.dll
+C:\Users\blend\OneDrive\Desktop\TweetBook\TweetBook.Contracts\obj\Debug\net6.0\refint\TweetBook.Contracts.dll
+C:\Users\blend\OneDrive\Desktop\TweetBook\TweetBook.Contracts\obj\Debug\net6.0\TweetBook.Contracts.pdb
+C:\Users\blend\OneDrive\Desktop\TweetBook\TweetBook.Contracts\obj\Debug\net6.0\ref\TweetBook.Contracts.dll

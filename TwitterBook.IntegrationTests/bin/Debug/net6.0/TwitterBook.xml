@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>TwitterBook</name>
+    </assembly>
+    <members>
+        <member name="M:TwitterBook.Controllers.V1.Tags.GetAllAsync">
+            <summary>
+             Returns all the tags in the system.
+            </summary>
+            <response code="200">
+            Returns all the tags in the system.
+            </response>
+        </member>
+        <member name="M:TwitterBook.Controllers.V1.Tags.GetTag(System.String)">
+            <summary>
+            Gets a specific tag.
+            </summary>
+            <param name="tagId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TwitterBook.Controllers.V1.Tags.Create(TwitterBook.Contracts.V1.Requests.CreateTagRequest)">
+            <summary>
+             Creates a tag in the system.
+            </summary>
+            <remarks>
+            Sample *Request*:
+                    POST /api/v1/tags
+                    {
+                        "name":"some name"
+                    }
+            </remarks>
+            <response code="200"> Creates a tag in the system.</response>
+            <response code="400"> Unable to create the tag due to validation error.</response>
+        </member>
+    </members>
+</doc>

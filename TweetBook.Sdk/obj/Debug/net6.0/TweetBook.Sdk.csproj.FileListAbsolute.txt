@@ -1,0 +1,15 @@
+C:\Users\blend\OneDrive\Desktop\TweetBook\TweetBook.Sdk\bin\Debug\net6.0\TweetBook.Sdk.deps.json
+C:\Users\blend\OneDrive\Desktop\TweetBook\TweetBook.Sdk\bin\Debug\net6.0\TweetBook.Sdk.dll
+C:\Users\blend\OneDrive\Desktop\TweetBook\TweetBook.Sdk\bin\Debug\net6.0\TweetBook.Sdk.pdb
+C:\Users\blend\OneDrive\Desktop\TweetBook\TweetBook.Sdk\obj\Debug\net6.0\TweetBook.Sdk.csproj.AssemblyReference.cache
+C:\Users\blend\OneDrive\Desktop\TweetBook\TweetBook.Sdk\obj\Debug\net6.0\TweetBook.Sdk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blend\OneDrive\Desktop\TweetBook\TweetBook.Sdk\obj\Debug\net6.0\TweetBook.Sdk.AssemblyInfoInputs.cache
+C:\Users\blend\OneDrive\Desktop\TweetBook\TweetBook.Sdk\obj\Debug\net6.0\TweetBook.Sdk.AssemblyInfo.cs
+C:\Users\blend\OneDrive\Desktop\TweetBook\TweetBook.Sdk\obj\Debug\net6.0\TweetBook.Sdk.csproj.CoreCompileInputs.cache
+C:\Users\blend\OneDrive\Desktop\TweetBook\TweetBook.Sdk\obj\Debug\net6.0\TweetBook.Sdk.dll
+C:\Users\blend\OneDrive\Desktop\TweetBook\TweetBook.Sdk\obj\Debug\net6.0\refint\TweetBook.Sdk.dll
+C:\Users\blend\OneDrive\Desktop\TweetBook\TweetBook.Sdk\obj\Debug\net6.0\TweetBook.Sdk.pdb
+C:\Users\blend\OneDrive\Desktop\TweetBook\TweetBook.Sdk\obj\Debug\net6.0\ref\TweetBook.Sdk.dll
+C:\Users\blend\OneDrive\Desktop\TweetBook\TweetBook.Sdk\bin\Debug\net6.0\TweetBook.Contracts.dll
+C:\Users\blend\OneDrive\Desktop\TweetBook\TweetBook.Sdk\bin\Debug\net6.0\TweetBook.Contracts.pdb
+C:\Users\blend\OneDrive\Desktop\TweetBook\TweetBook.Sdk\obj\Debug\net6.0\TweetBook.Sdk.csproj.CopyComplete
